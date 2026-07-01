@@ -10,7 +10,7 @@ return 0;
 print1toN(n-1);
 cout<<n<<" ";
 
-return 0;
+return;
 
 }
 int main(){
